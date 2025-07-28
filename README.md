@@ -21,7 +21,7 @@
 ## 🛠 Stack Tecnológica
 
 ### 💻 Back-end
-![Java](https://img.shields.io/badge/Java-5%2C%207%2C%208%2C%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5%2C%207%2C%208%2C%11%2C%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -46,7 +46,7 @@
 
 ### **Mestra Informática e Tecnologia**  
 *Desenvolvedor Java (Nov 2022 - Presente)*  
-- Desenvolvimento de sistemas em múltiplas versões Java (5, 8, 11 e 17)
+- Desenvolvimento de sistemas em múltiplas versões Java (5, 7, 8, 11 e 17)
 - Modelagem e otimização de bancos Oracle/SQL Server
 - Criação e manutenção de relatórios com IReport
 - Gerenciamento de branches com Git, SVN e CVS
