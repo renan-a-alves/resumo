@@ -64,7 +64,6 @@
 
 - **Engenharia de Software** - Estácio (2023-2026) - Cursando
 - **Análise e Desenvolvimento de Sistemas** - Estácio (2021-2023)
-- **Engenharia de Produção** - Universidade Estácio de Sá (2014-2017)
 
 ## 📫 Contato
 
